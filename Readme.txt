@@ -1,1 +1,0 @@
-TSM action recognition model deployment on Jetson Nano
